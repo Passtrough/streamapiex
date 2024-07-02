@@ -1,0 +1,2 @@
+# streamapiex
+Exercicios usando StreamAPI
